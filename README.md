@@ -1,3 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/m2rp73klc5v09p8y?svg=true)](https://ci.appveyor.com/project/MaxKrch/react-lesson6)
+[![Build status](https://ci.appveyor.com/api/projects/status/ls437hk8mwlndqvl?svg=true)](https://ci.appveyor.com/project/MaxKrch/react-module7-hoc)
 
-[GitHub Pages](https://maxkrch.github.io/react-lesson6/)
+[GitHub Pages](https://maxkrch.github.io/react-module7-hoc/)
